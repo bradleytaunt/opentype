@@ -1,0 +1,59 @@
+/* Sansation - Light */
+@font-face {
+  font-family: 'Sansation';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    url('./files/Sansation-Light-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Sansation - Light */
+@font-face {
+  font-family: 'Sansation';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    url('./files/Sansation-LightItalic-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Sansation - Regular */
+@font-face {
+  font-family: 'Sansation';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    url('./files/Sansation-Regular-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Sansation - Italic */
+@font-face {
+  font-family: 'Sansation';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    url('./files/Sansation-Italic-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Sansation - Bold */
+@font-face {
+  font-family: 'Sansation';
+  font-style: bold;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    url('./files/Sansation-Bold-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* Sansation - Bold Italic */
+@font-face {
+  font-family: 'Sansation';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    url('./files/Sansation-BoldItalic-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
